@@ -19,6 +19,7 @@
 
 | 机场官网                                                          | 套餐          | 试用 | 优惠卷   |
 | ----------------------------------------------------------------- | ------------- | ---- | -------- |
+| [贝贝云(自用)](beibeilink.top/#/login?code=0yPev506)                    | 100G/11.0     |      |          |
 | [万达云](https://app.wdycenter.com/register?code=XfGOTwtN)        | 150G/13.90    | 3G   | wandayun |
 | [大哥云](https://apidagecloud.com/#/register?code=fOd4iIBS)       | 100G/19.90    | 10G  | mcuE8uOq |
 | [泰山](https://hkcdn.ts123.cc/register?code=EwI5mXc1)             | 128G/10.00    | 1G   |          |
